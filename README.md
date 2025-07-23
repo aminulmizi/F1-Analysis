@@ -47,9 +47,15 @@ Formula 1 race strategy combines high-speed decision-making with complex variabl
 - NumPy & Pandas (for data manipulation)
 - Monte Carlo methods (for probabilistic simulation)
 
-## How to Use
+## ▶️ How to Use
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the Dash app
+python app.py
