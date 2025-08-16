@@ -6,7 +6,7 @@ This repository contains a set of Python tools and scripts I developed to analyz
 
 Understanding Formula 1 race strategy is a complex challenge involving dynamic factors like tyre management, pit stops, weather, and unpredictable race events. This project uses **Python**, **Dash**, and **Monte Carlo simulations** to model and visualize how these variables impact race outcomes.
 
-The goal is to provide interactive, data-driven insights into strategic decisions made by teams during a race — supporting better understanding of race flow, laptime variations, and the effects of weather and interruptions on final results.
+The goal is to provide interactive, data-driven insights into strategic decisions made by teams during a race - supporting better understanding of race flow, laptime variations, and the effects of weather and interruptions on final results.
 
 This project showcases my skills in data analysis, simulation, and visualization, with a focus on motorsport applications.
 
